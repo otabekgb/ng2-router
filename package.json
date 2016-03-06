@@ -1,0 +1,27 @@
+{
+  "name": "pax-control-mobile",
+  "description": "PaxControl web client with mobile-first approach",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/otabekgb/ng2-router",
+  "author": "Otabek Kholikov <otabekhm@gmail.com>",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "typings": "typings",
+    "postinstall": "typings install"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-beta.8",
+    "systemjs": "^0.19.23",
+    "es6-promise": "^3.1.2",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "^5.0.0-beta.2",
+    "zone.js": "^0.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.7",
+    "typings": "^0.6.10"
+  }
+}
